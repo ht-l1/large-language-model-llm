@@ -3,4 +3,4 @@
 ## Setup
 Running Virtual Environment
 source venv/bin/activate
-python jupyter
+jupyter notebook
