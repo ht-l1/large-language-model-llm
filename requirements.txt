@@ -5,5 +5,6 @@ requests
 tdqm
 notebook
 openai
-elasticsearch
+elasticsearch==8.4.3
 dotenv
+minsearch
